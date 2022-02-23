@@ -1,9 +1,9 @@
 # Olá eu sou o Júlio Filho
-💻 Hoje trabalho com Frond-end 
-☂️ ux/ui design
+💻 Hoje trabalho com **Frond-end** 
+☂️ ux/ui **design**
 🍥 Figma
-🖥️ No-code -> Bubble
-⌨️ Estudando Next.js
+🖥️ No-code -> **Bubble**
+⌨️ Estudando **Next.js**
 ⌨️ React native
 <br><br>
 
